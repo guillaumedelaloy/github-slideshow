@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+oic,soc,scks,c
 Use the left arrow to go back!
